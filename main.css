@@ -1,0 +1,28 @@
+#timer {
+    font-size: 40px;
+    margin: 19px 10px;
+}
+#start_button {
+    background-color: #e3e3e3;
+    border: solid 1.3px #4d4d4d;
+    border-radius: 5px;
+    color: black;
+    font-size: 16px;
+    padding: 9px 11px;
+}
+#stop_button {
+    background-color: #e3e3e3;
+    border: solid 1.3px #4d4d4d;
+    border-radius: 5px;
+    color: black;
+    font-size: 16px;
+    padding: 9px 11px;
+}
+#reset_button {
+    background-color: #e3e3e3;
+    border: solid 1.3px #4d4d4d;
+    border-radius: 5px;
+    color: black;
+    font-size: 16px;
+    padding: 9px 11px;
+}
